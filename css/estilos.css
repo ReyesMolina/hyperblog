@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(49, 49, 49);
+=======
+    color: #333;
+>>>>>>> cd849a618f8556c29a5f3d46e90e603f451d68b4
     font-family: "Arial";
     margin: 0;
     padding: 0;
